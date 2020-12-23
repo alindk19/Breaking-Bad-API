@@ -137,7 +137,7 @@ const CharacterBox = ({isLoading, character}) => {
       </ul>
     </div> < i className = "btn-close" onClick = {
       setModalState
-    } >& times;
+    } >&times;
     </i>
   </ReactModal > </>)
 }
