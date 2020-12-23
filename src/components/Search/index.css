@@ -1,0 +1,12 @@
+input{
+    width: 600px;
+    height: 40px;
+    outline: none;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.search-box{
+    margin-bottom: 20px;
+}
