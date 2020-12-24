@@ -3,3 +3,11 @@
     height: 500px;
     color: aliceblue;
 }
+
+@media screen and (max-width:1080px) {
+    .loading{
+        margin: auto;
+        height: 300px;
+        color: aliceblue;
+    }
+  }

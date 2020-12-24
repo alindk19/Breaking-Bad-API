@@ -10,3 +10,10 @@ input{
 .search-box{
     margin-bottom: 20px;
 }
+
+@media screen and (max-width:1080px) {
+    input{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+  }
