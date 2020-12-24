@@ -59,6 +59,7 @@ const CharacterBox = ({isLoading, character}) => {
               <strong id={character.char_id}>Status:</strong>
               {character.status}
             </li>
+            <b className="center">Click for more details about character</b>
           </ul>
         </div>
       </div>
